@@ -1,0 +1,26 @@
+
+
+.header {
+    width: 1200px;
+    height: 100px;
+    border: 2px solid rgb(7, 7, 7);
+    margin: 0 auto;
+    position: relative;
+    display: flex;
+    gap: 20px;
+}
+
+.apple {
+    position: absolute;
+    margin-top: 15px;
+    width: 80px;
+    height: 50px;
+}
+
+.samsung {
+    margin-left: 20px;
+    position: absolute;
+    margin-top: 15px;
+    width: 80px;
+    height: 50px;
+}
